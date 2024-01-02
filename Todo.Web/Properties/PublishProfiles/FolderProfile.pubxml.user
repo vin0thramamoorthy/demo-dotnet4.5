@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\poc\octopus\octopus-deploy-dot-net-applications\octopus-deploy-dot-net-applications-m1-exercise-files\Todo.Web\publish</_PublishTargetUrl>
+    <History>True|2024-01-02T08:16:24.4439253Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/15/2016 03:00:06</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 09:32:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/28/2015 09:32:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/28/2015 09:33:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 09:32:32</publishTime>
+    </File>
+    <File Include="bin/Todo.Web.dll">
+      <publishTime>01/02/2024 13:46:24</publishTime>
+    </File>
+    <File Include="bin/Todo.Web.pdb">
+      <publishTime>01/02/2024 13:46:24</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>06/07/2016 20:47:28</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/21/2016 21:35:32</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>06/07/2016 20:52:36</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/19/2016 00:30:40</publishTime>
+    </File>
+    <File Include="Scripts/controller.js">
+      <publishTime>03/21/2016 21:35:32</publishTime>
+    </File>
+    <File Include="Scripts/jquery.js">
+      <publishTime>03/21/2016 21:35:32</publishTime>
+    </File>
+    <File Include="Scripts/model.js">
+      <publishTime>03/21/2016 21:35:32</publishTime>
+    </File>
+    <File Include="Scripts/ramda.js">
+      <publishTime>03/21/2016 21:35:32</publishTime>
+    </File>
+    <File Include="Scripts/view.js">
+      <publishTime>03/21/2016 21:35:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/02/2024 13:46:24</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
